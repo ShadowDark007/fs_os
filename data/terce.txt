@@ -1,0 +1,6 @@
+host : kali
+
+plataForma : linux
+procesador : Intel(R) Celeron(R) CPU  N3060  @ 1.60GHz
+arquitectura : x64
+MemoriaEnBits : 8235597824 bytes
